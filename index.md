@@ -14,3 +14,7 @@ int x=1;
 for(i=1;i<=20;i++)
 x++;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
